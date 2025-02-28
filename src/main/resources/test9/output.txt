@@ -1,0 +1,8 @@
+{"email":"john.doe@email.com","firstname":"john","lastname":"doe","address":"1401 stoltenberg islands geralynstad sd 36945","friends":[]}
+{"email":"bob.stucky@email.com","firstname":"bob","lastname":"stucky","address":"687 swanson dr. new york ny 10024","friends":[]}
+{"stocksToBuy":["GOOGL","JPM","ABNB","MSFT","COST","T","V","NFLX","META","GOOG","NVDA","BAC","KO","TMUS","CSCO","PG","ADBE","AMZN","WMT"]}
+{"stocks":[{"stockname":"adbe","amount":10}],"accounts":[{"currencyname":"usd","amount":"44025.10"}]}
+{"stocks":[{"stockname":"adbe","amount":10}],"accounts":[{"currencyname":"usd","amount":"44223.84"}]}
+{"stocks":[{"stockName":"ADBE","amount":10},{"stockName":"ORCL","amount":100}],"accounts":[{"currencyName":"USD","amount":"33549.10"}]}
+{"stocks":[{"stockname":"ADBE","amount":10},{"stockname":"orcl","amount":100}],"accounts":[{"currencyname":"usd","amount":"33747.84"}]}
+{"email":"john.doe@email.com","firstname":"john","lastname":"doe","address":"1401 stoltenberg islands geralynstad sd 36945","friends":[]}

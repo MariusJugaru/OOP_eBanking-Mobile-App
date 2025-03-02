@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/iitdRc-l)
+Developed a mobile e-Banking app for stocks or cryptocurrency. You can
+create a new account, add friends and currency, transfer money, buy and get
+recommendations for stocks. This project helped me get more familiar with
+design patterns and OOP concepts.
